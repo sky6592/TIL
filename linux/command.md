@@ -23,7 +23,8 @@ pwd
   - `.`은 현재폴더 `..`은 상위폴더를 의미한다.
 
 ```bash
-ls 
+ls
+ls -a
 ```
 
 
@@ -31,10 +32,11 @@ ls
 ##### cd (change directory)
 
 - 해당 위치로 이동하는 명령어
-  - `..`은 상위 폴더를 의미한다.
+  - `.`은 현재폴더 `..`은 상위폴더를 의미한다.
 
 ```bash
 cd <folder name>
+cd TIL/
 ```
 
 
@@ -72,6 +74,3 @@ touch <file name>
 ```bash
 rm <filename>
 ```
-
-
-
