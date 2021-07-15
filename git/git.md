@@ -13,11 +13,9 @@
 2.  repository 생성
    - md파일만 등록할 경우 **Intialize this repository with : 아무것도 체크하지 말기**
 
-![image-20210715125332986](D:/Android/markdown/First_markdown.assets/new_repo)
+![image-20210715125332986](git.assets/image-20210715125332986.png)
 
-![image-20210715125511469](D:/Android/markdown/First_markdown.assets/create_new_repo)
-
-
+![image-20210715125511469](git.assets/image-20210715125511469.png)
 
 ---
 
@@ -61,3 +59,9 @@ git config --global user.email 이메일
 git commit --amend
 ```
 
+
+
+##### git 파일 이름 입력
+
+* git bash에서 파일이름을 입력할때 오타가 많이 난다
+  파일 앞글자 입력 후 `tab`을 누르게 되면 자동 입력 완성이 된다
