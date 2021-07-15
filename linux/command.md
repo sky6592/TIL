@@ -37,7 +37,13 @@ ls -a
 ```bash
 cd <folder name>
 cd TIL/
+cd .
+cd ..
 ```
+
+
+
+---
 
 
 
@@ -60,6 +66,10 @@ mkdir <folder name>
 ```bash
 touch <file name>
 ```
+
+
+
+---
 
 
 
